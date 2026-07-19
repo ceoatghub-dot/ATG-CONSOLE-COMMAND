@@ -1,6 +1,6 @@
 import {
   Globe2,
-  Home,
+  Home as HomeIcon,
   Mail,
   MapPin,
   Menu,
@@ -17,7 +17,7 @@ const galleryItems = [
   { title: 'Road Freight', icon: Truck, className: 'road' },
   { title: 'Air Cargo', icon: Plane, className: 'air' },
   { title: 'Warehousing', icon: Warehouse, className: 'warehouse' },
-  { title: 'Relocation', icon: Home, className: 'relocation' },
+  { title: 'Relocation', icon: HomeIcon, className: 'relocation' },
   { title: 'Sea Freight', icon: Ship, className: 'sea' },
 ];
 
